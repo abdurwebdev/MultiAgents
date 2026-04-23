@@ -1,4 +1,3 @@
-/* ARCHIVED: marked on 2026-04-23. Unused in current app; kept for reference. Move to archive/ if confirmed. */
 import redisClient from "../config/redis.js";
 
 const keyFor = (conversationId) => `convo:${conversationId}:msgs`;

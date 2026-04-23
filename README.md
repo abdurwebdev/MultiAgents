@@ -3,10 +3,7 @@
 A modern, production-ready frontend for an AI-powered chat application built with React, Vite and TailwindCSS. This project demonstrates realtime chat (Socket.IO), authenticated user flows, conversation state management (Zustand), Markdown rendering, and polished UI components.
 
 Demo media
-- Add a GIF or video demonstrating the app in action at: /public/assets/demo.gif or /public/assets/demo.mp4
-- Embed in this README with:
-  - GIF: `![Demo](/public/assets/demo.gif)`
-  - Video (HTML): `<video src="/public/assets/demo.mp4" controls muted loop />`
+Watch On Google Drive: https://drive.google.com/file/d/1dHJEBtMAzHoHj-eWaZQzVaG6O0e1KKqd/view?usp=sharing
 
 Tech stack
 - React 19 + Vite
