@@ -1,0 +1,74 @@
+{"level":"error","message":"Redis Error:Connection timeout","service":"user-service","timestamp":"2026:04:19 22:12:03"}
+{"level":"error","message":"Redis Error:Connection timeout","service":"user-service","timestamp":"2026:04:19 23:06:29"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 13:00:25"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:25"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:25"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:25"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:26"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:26"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:27"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:29"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:31"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:33"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:35"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 13:00:37"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 13:05:41"}
+{"level":"error","message":"Error logging out user:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 13:05:41","userId":"69e51df6db008116f71a8693"}
+{"level":"error","message":"Redis Error:Connection timeout","service":"user-service","timestamp":"2026:04:20 13:05:46"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 13:07:50"}
+{"level":"error","message":"Redis Error:Connection timeout","service":"user-service","timestamp":"2026:04:20 13:07:55"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 15:03:23"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:23"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:23"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:23"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:24"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:24"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:25"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:27"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:29"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:31"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:33"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:35"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:37"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:39"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:42"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:44"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:46"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:48"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:50"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:52"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:54"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:56"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:03:59"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:01"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:03"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:05"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:07"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:09"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:11"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:13"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:16"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:18"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:20"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:22"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:24"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:26"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:28"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:30"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:32"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:35"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:37"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:39"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:41"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:43"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:45"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026:04:20 15:04:47"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026:04:20 22:10:39"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026-04-22 14:44:07"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:44:08"}
+{"level":"error","message":"Redis Error:read ECONNRESET","service":"user-service","timestamp":"2026-04-22 14:59:05"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:59:05"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:59:06"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:59:06"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:59:06"}
+{"level":"error","message":"Redis Error:getaddrinfo ENOTFOUND redis-12776.c114.us-east-1-4.ec2.cloud.redislabs.com","service":"user-service","timestamp":"2026-04-22 14:59:06"}
