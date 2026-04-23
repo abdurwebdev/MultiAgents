@@ -89,4 +89,3 @@ Contact / Notes
 - Replace the demo media placeholders with short GIFs (5–10s) and a 20–30s MP4 overview for recruiters.
 - If you want, I can generate suggested GIF recording steps and a short README badge list for quick scanning.
 
-Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
